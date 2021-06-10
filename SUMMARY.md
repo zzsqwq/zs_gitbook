@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Inital Guide](README.md)
 
 ## ICRA Robomaster <a id="robomaster"></a>
 
