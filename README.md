@@ -1,4 +1,4 @@
-# Inital Guide
+# Initial Guide
 
 ## Can I become who I want to be?
 
