@@ -2,7 +2,7 @@
 
 * [Initial page](README.md)
 
-## ICRobomaster <a id="robomaster"></a>
+## ICRA Robomaster <a id="robomaster"></a>
 
 * [视觉](robomaster/shi-jue.md)
 * [策略](robomaster/ce-lve.md)
