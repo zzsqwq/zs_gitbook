@@ -8,6 +8,7 @@
 * [策略](robomaster/ce-lve.md)
 * [定位](robomaster/ding-wei.md)
 * [导航](robomaster/dao-hang.md)
+* [常见问题](robomaster/chang-jian-wen-ti.md)
 
 ## 中国机器人大赛
 
